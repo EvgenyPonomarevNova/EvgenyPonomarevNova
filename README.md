@@ -6,6 +6,8 @@ I work across product interfaces, server-side logic and deployment. My current f
 
 [Telyra — live product](https://telyra.ru) · [Email](mailto:ponomareve45@gmail.com) · [Русский](https://github.com/EvgenyPonomarevNova/EvgenyPonomarevNova/blob/main/README.ru.md)
 
+**[Browse all projects →](https://github.com/EvgenyPonomarevNova/EvgenyPonomarevNova/blob/main/PROJECTS.md)** — products, applications, client websites and frontend experiments.
+
 ## Products
 
 <table>
@@ -43,9 +45,17 @@ The product repositories are public showcases; their application source remains 
 - **[FrameDock](https://github.com/EvgenyPonomarevNova/FrameDock)** — Windows graphics-mod manager with a clearer setup and recovery workflow. Preview release; independent development of 1-Click-DLSS5 with upstream attribution.
 - **[React Bits — PR #1084](https://github.com/DavidHDev/react-bits/pull/1084)** — fixes invalid ref initialization in the JavaScript/Tailwind GlassSurface component and its CLI registry copy. Submitted for review.
 
-## Earlier work
+## Selected applications & client websites
 
-Before these products, I built corporate websites, landing pages and frontend experiments. Selected examples: [ТехноИмпериум](https://github.com/EvgenyPonomarevNova/Shield-Automation), [Plainfield](https://github.com/EvgenyPonomarevNova/Plainfield) and [animation experiments](https://github.com/EvgenyPonomarevNova/Templates-for-animations-in-js).
+| Project | Work |
+| --- | --- |
+| [NexusHub](https://github.com/EvgenyPonomarevNova/freelance-frontend) | Freelance platform prototype: projects, profiles, authentication and chat interfaces. |
+| [ТехноИмпериум](https://github.com/EvgenyPonomarevNova/Shield-Automation) | Multi-page corporate frontend with catalogue, search and gallery modules. |
+| [M1 / Invest](https://github.com/EvgenyPonomarevNova/invest) | Five-page corporate website. |
+| [Growth Laboratory](https://github.com/EvgenyPonomarevNova/landing-page-growth-laboratory-v2) | Freelance landing page with two available iterations. |
+| [1win](https://github.com/EvgenyPonomarevNova/1win-landing-page) | Freelance landing page with HTML/CSS and SCSS implementations. |
+
+[All websites, portfolios and experiments →](https://github.com/EvgenyPonomarevNova/EvgenyPonomarevNova/blob/main/PROJECTS.md)
 
 ## Contact
 
